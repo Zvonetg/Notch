@@ -16,6 +16,7 @@ Ove upute opisuju kako instalirati projekt Notch, instalirati potrebne alate pom
 
    ```
 
+
 2. Instalacija npm paketa
    Instalirajte npm pakete koji su potrebni za projekt:
 
